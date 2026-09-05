@@ -10,7 +10,7 @@ Analisar os dados de vendas para identificar padrões de desempenho, principais 
 
 - **Excel** — fonte dos dados
 - **Power Query** — tratamento e transformação dos dados
-- **Power BI** — criação e visualização do dashboard
+- **Power BI** — modelagem, criação e visualização do dashboard
 - **DAX** — criação de medidas e métricas
 
 ## 🔄 Tratamento e preparação dos dados
@@ -24,7 +24,8 @@ As principais etapas realizadas foram:
 - Junção de diferentes tabelas;
 - Criação de novas colunas;
 - Exclusão de colunas desnecessárias;
-- Organização e preparação da base para análise no Power BI.
+- Organização e preparação da base para análise no Power BI;
+- Criação e configuração dos relacionamentos entre as tabelas.
 
 ## 📌 Principais indicadores
 
@@ -45,7 +46,7 @@ As principais etapas realizadas foram:
 
 - **Concentração de receita:** As três principais marcas — **Contoso, Northwind Traders e Litware** — representam aproximadamente **82% da receita total**, indicando uma forte concentração do faturamento.
 
-- **Liderança consistente:** A **América do Norte** ocupou a liderança em receita em **100% dos meses analisados**, enquanto a **Contoso** liderou em **34 dos 36 meses analisados (94,4%)**, demonstrando forte consistência de desempenho ao longo do período.
+- **Liderança consistente:** A **América do Norte** ocupou a liderança em receita em **100% dos meses analisados**, enquanto a **Contoso** liderou em **34 dos 36 meses analisados (94,4%)**, demonstrando forte consistência de desempenho.
 
 - **Perfil de vendas:** O público **feminino representa 55,2% das vendas**, enquanto o público masculino representa **44,8%**.
 
